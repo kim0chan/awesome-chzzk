@@ -70,6 +70,9 @@ A collection of open-source projects related to the Naver Chzzk platform.
 - [NOOBNUBY/McChzzk](https://github.com/NOOBNUBY/McChzzk) - Minecraft <-> Chzzk plugin `Kotlin` `GPL-3.0 License`
 - [apo2073/skChzzk](https://github.com/apo2073/skChzzk) - Minecraft Chzzk skript addon `Kotlin` `GPL-3.0 license`
 
+### Flow Launcher Plugins
+- [kim0chan/Flow.Launcher.Plugin.CHZZK](https://github.com/kim0chan/Flow.Launcher.Plugin.CHZZK) - Flow Launcher Plugin for CHZZK `Typescript`
+
 ### Other Projects
 - [ssogari-dev/Chzzk_Tool](https://github.com/ssogari-dev/Chzzk_Tool) - Useful tools for Naver's streaming service CHZZK `Python`
 - [Escaper-Park/unofficial_chizzk_android_tv](https://github.com/Escaper-Park/unofficial_chzzk_android_tv) - Unofficial Chzzk Android TV App `Dart`
